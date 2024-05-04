@@ -1,0 +1,11 @@
+streamlit
+streamlit_chat
+torch
+sentence_transformers
+pytube
+faiss_cpu
+ctransformers
+git+https://github.com/openai/whisper.git 
+langchain
+librosa
+openai
